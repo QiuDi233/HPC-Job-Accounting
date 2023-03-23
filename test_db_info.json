@@ -1,7 +1,7 @@
 {
-    "mysql_ip": "10.179.49.235",
-    "mysql_port": 4859,
-    "mysql_user": "didi_9brG",
-    "mysql_pass": "NdX2ZdYHU",
-    "default_db": "user_test"
+    "mysql_ip": ,
+    "mysql_port": ,
+    "mysql_user": ,
+    "mysql_pass": ,
+    "default_db": 
   }
