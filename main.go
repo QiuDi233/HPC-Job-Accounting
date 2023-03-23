@@ -30,7 +30,7 @@ type Job struct {
 
 func main() {
 	// 解析命令行参数
-	logFilePath := "./test_data/20230307"
+	logFilePath := "./test_data/testdata"
 	dbConfigPath := "./test_db_info.json"
 	// ...
 
